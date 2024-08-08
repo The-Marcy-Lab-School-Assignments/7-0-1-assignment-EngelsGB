@@ -28,8 +28,8 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 
 **Functionality:**
 
-- [ ] When a user first loads the app, they should see 3 gifs from today's [Giphy API "Trending Gifs" endpoint](https://developers.giphy.com/docs/api/endpoint#trending).
-- [ ] The user can search for gifs using the [Giphy API search endpoint](https://developers.giphy.com/docs/api/endpoint#search).
+- [x] When a user first loads the app, they should see 3 gifs from today's [Giphy API "Trending Gifs" endpoint](https://developers.giphy.com/docs/api/endpoint#trending).
+- [x] The user can search for gifs using the [Giphy API search endpoint](https://developers.giphy.com/docs/api/endpoint#search).
 - [x] The app updates the gifs on the page, displaying 3 at a time, **every time the user clicks the Find Gifs button**.
 
 **React Fundamentals**
